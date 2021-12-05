@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dax/code/playground/python-c-extension-modules",
+  "command": "/usr/bin/cc -I/usr/include/python3.8 -o CMakeFiles/fputsmodule.dir/fputsmodule.c.o -c /home/dax/code/playground/python-c-extension-modules/fputsmodule.c",
+  "file": "/home/dax/code/playground/python-c-extension-modules/fputsmodule.c"
+}
+]

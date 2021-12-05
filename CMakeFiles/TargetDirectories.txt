@@ -1,0 +1,3 @@
+/home/dax/code/playground/python-c-extension-modules/CMakeFiles/fputsmodule.dir
+/home/dax/code/playground/python-c-extension-modules/CMakeFiles/edit_cache.dir
+/home/dax/code/playground/python-c-extension-modules/CMakeFiles/rebuild_cache.dir
